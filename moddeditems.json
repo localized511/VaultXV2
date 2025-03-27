@@ -29280,6 +29280,60 @@
             "level": 1
         },
         "quantity": 1
+    },
+    "f898c9b5-fef8-43b2-8f64-55913efaec9c": {
+        "templateId": "AthenaDance:EID_GarlicWhisk",
+        "attributes": {
+            "creation_time": null,
+            "level": 1,
+            "item_seen": true
+        },
+        "quantity": 1
+    },
+    "739bfe60-903f-41e0-a143-f844b82fcc9d": {
+        "templateId": "AthenaDance:EID_GarlicWhisk_Clobber",
+        "attributes": {
+            "creation_time": null,
+            "level": 1,
+            "item_seen": true
+        },
+        "quantity": 1
+    },
+    "83b2eed9-c9a4-46c5-82b1-5f49e6628132": {
+        "templateId": "AthenaDance:EID_SoapPocket",
+        "attributes": {
+            "creation_time": null,
+            "level": 1,
+            "item_seen": true
+        },
+        "quantity": 1
+    },
+    "373ca029-bdb1-4ba8-830a-d348cbedffa0": {
+        "templateId": "AthenaDance:EID_SoapPocket_Punch",
+        "attributes": {
+            "creation_time": null,
+            "level": 1,
+            "item_seen": true
+        },
+        "quantity": 1
+    },
+    "160aeb81-e87a-4b06-a0d1-18d19ab35303": {
+        "templateId": "AthenaDance:EID_TotalFlock",
+        "attributes": {
+            "creation_time": null,
+            "level": 1,
+            "item_seen": true
+        },
+        "quantity": 1
+    },
+    "0b14480d-0999-4cc7-b814-861f6622d347": {
+        "templateId": "AthenaDance:EID_TotalFlock_Slash",
+        "attributes": {
+            "creation_time": null,
+            "level": 1,
+            "item_seen": true
+        },
+        "quantity": 1
         }
       }
     }
