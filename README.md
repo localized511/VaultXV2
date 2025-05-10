@@ -1,0 +1,1 @@
+**This doesn't permanently add items to your Fortnite account. It uses MITM Proxy to temporarily give you items that work in certain maps. Use an alt account, not your main. I’m not responsible for any bans that occur.**
