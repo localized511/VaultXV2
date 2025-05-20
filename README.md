@@ -1,65 +1,64 @@
-<Character>
-  \
-OUTFIT ❌
-BACK BLING ❌
-PICKAXE ❌
-GLIDER ❌
-KICKS ❌
-CONTRAIL ❌
-AURA ❌
-----------
+## Character  
+- Outfit ❌  
+- Back Bling ❌  
+- Pickaxe ❌  
+- Glider ❌  
+- Kicks ❌  
+- Contrail ❌  
+- Aura ❌  
 
-<Emotes>
-  \
-Emotes ✅
-Emojis ✅
-Sprays ✅
-Toys ✅
-----------
+---
 
-<Wraps>
-  \
-ASSAULT RIFLE WRAP
-SHOTGUN WRAP
-SMG WRAP
-SNIPER WRAP
-PISTOL WRAP
-MISC WRAP
-SPECIAL WRAP
-----------
+## Emotes  
+- Emotes ✅  
+- Emojis ✅  
+- Sprays ✅  
+- Toys ✅  
 
-<Lobby>
-  \
-BANNER ❌
-LOBBY MUSIC ❌
-LOADING SCREEN ❌
-----------
+---
 
-<Cars>
-  \
-Sports Car | SUV / Truck - CAR BODY ❌
-Sports Car | SUV / Truck - DECAL ❌
-Sports Car | SUV / Truck - WHEELS ❌
-Sports Car | SUV / Truck - TRAIL ❌
-Sports Car | SUV / Truck - BOOST ❌
-----------
+## Wraps  
+- Assault Rifle Wrap  
+- Shotgun Wrap  
+- SMG Wrap  
+- Sniper Wrap  
+- Pistol Wrap  
+- Misc Wrap  
+- Special Wrap  
 
-<Instruments>
-  \
-BASS ❌
-GUITAR ❌
-DRUMS ❌
-KEYTAR ❌
-MICROPHONE ❌
-----------
+---
 
-<Music>
-  \
-Jam Tracks ❌
-Game Moments ❌
-----------
+## Lobby  
+- Banner ❌  
+- Lobby Music ❌  
+- Loading Screen ❌  
 
-<LEGO® Kits>
-  \
-BUILD ❌
-DECOR BUNDLE ❌
+---
+
+## Cars  
+- Sports Car / SUV / Truck - Car Body ❌  
+- Sports Car / SUV / Truck - Decal ❌  
+- Sports Car / SUV / Truck - Wheels ❌  
+- Sports Car / SUV / Truck - Trail ❌  
+- Sports Car / SUV / Truck - Boost ❌  
+
+---
+
+## Instruments  
+- Bass ❌  
+- Guitar ❌  
+- Drums ❌  
+- Keytar ❌  
+- Microphone ❌  
+
+---
+
+## Music  
+- Jam Tracks ❌  
+- Game Moments ❌  
+
+---
+
+## LEGO Kits  
+- Build ❌  
+- Decor Bundle ❌  
