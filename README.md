@@ -18,13 +18,13 @@
 ---
 
 ## Wraps  
-- Assault Rifle Wrap  
-- Shotgun Wrap  
-- SMG Wrap  
-- Sniper Wrap  
-- Pistol Wrap  
-- Misc Wrap  
-- Special Wrap  
+- Assault Rifle Wrap ❌  
+- Shotgun Wrap ❌  
+- SMG Wrap ❌  
+- Sniper Wrap ❌  
+- Pistol Wrap ❌  
+- Misc Wrap ❌  
+- Special Wrap ❌  
 
 ---
 
