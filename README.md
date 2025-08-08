@@ -14,8 +14,9 @@ Before running the script, make sure to:
 2. Download the hybrid
    After installing both programs, download the hybrid and unzip it.
 
-3. Run the Script  
-   Double-click the `run.bat` file on Windows or the `run.sh` file on Mac to launch the Python script.
+3. Run the Script
+* Double-click the `run.bat` file on Windows
+* On Mac, open Terminal, type `cd <your-directory>/VaultX`, then type `bash run.sh` to launch the Python script.
 
 ---
 
