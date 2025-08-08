@@ -13,7 +13,7 @@ def response(flow: http.HTTPFlow):
         )
         return
 
-    target_url = "https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/game/v2/profile/"
+    target_url = "https://mcp-gc.live.fngw.ol.epicgames.com/fortnite/api/game/v2/profile/"
     if target_url in flow.request.url:
         parsed_url = urlparse(flow.request.url)
         query_params = parse_qs(parsed_url.query)
